@@ -1,0 +1,14 @@
+.get,.want{
+    font-size: 28px;
+    font-family: Helvetica,Times New Roman, sans-serif;
+}
+
+.get {
+    background-color: black;
+    color: white;
+}
+
+.want {
+    background-color: yellow;
+    color: black;
+}

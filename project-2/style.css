@@ -1,0 +1,30 @@
+.first{
+    background-color: #ffb6c1;
+    color: #000000;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#gang {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.look.me {
+    background-color: #ffb6c1;
+    color: #000000;
+    font-family: Verdana, DejaVu Sans, sans-serif; 
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#whaaat {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.boom {
+    background-color: #ffb6c1;
+    color: #000000;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
